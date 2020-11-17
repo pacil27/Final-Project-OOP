@@ -11,14 +11,17 @@
 ## Sprint Backlog Keseluruhan 
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Preparing the x | Jane Doe | 
+| 1.1 | Membuat frame dan panel 3x3 | Jane Doe |
+| 1.2 | Membuat giliran X atau O | Jane Doe |
+| 1.3 | Mengubah isi panel menjadi huruf sesuai giliran | Jane Doe |
 | 2.2 | Make the x | John Doe | 
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 1.1 | Membuat frame dan panel 3x3 | Jane Doe |
+| 1.2 | Membuat giliran X atau O | Jane Doe |
+| 1.3 | Mengubah isi panel menjadi huruf sesuai giliran | Jane Doe |
 
 ## Retrospective 
 
