@@ -12,7 +12,7 @@
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
 | 1.1 | Membuat frame dan panel 3x3 | Jane Doe |
-| 1.2 | Membuat giliran X atau O | Jane Doe |
+| 1.2 | Menentukan giliran X atau O | Jane Doe |
 | 1.3 | Mengubah isi panel menjadi huruf sesuai giliran | Jane Doe |
 | 2.2 | Make the x | John Doe | 
 
