@@ -22,18 +22,18 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
    - Langkah pertama dalam membuat tictactoe adalah jFramenya terlebih dahulu
    - Membuat player 1 dan player 2 (X dan O)
    - Membuat desain tampilan yang ingin ditampilkan , pada tampilan nanti kami akan menampilkan :
-    ⋅⋅⋅1. Tulisan untuk mengetahui giliran pemain contoh : (Giliran Ke-1(x),Giliran Ke-2(o) , dst)
-    ⋅⋅⋅2. Menampilkan score pemain contoh : (X = … , O = … )
-    ⋅⋅⋅3. Membuat panel 3x3
-    ⋅⋅⋅4. Dan yang tekahir membuat tombol reset dan exit 
+    ⋅⋅⋅1. Tulisan untuk mengetahui giliran pemain contoh : (Giliran Ke-1(x),Giliran Ke-2(o) , dst)⋅⋅
+    ⋅⋅⋅2. Menampilkan score pemain contoh : (X = … , O = … )⋅⋅
+    ⋅⋅⋅3. Membuat panel 3x3⋅⋅
+    ⋅⋅⋅4. Dan yang tekahir membuat tombol reset dan exit ⋅⋅
    - Membuat kodingan yang menampilkan desain yang telah dibuat 
 
 - **[Sprint 2](changelog/sprint-2.md) - (25/11/2020 - 1/12/2020)** 
    - Membuat semua fungsi yang berjalan :
-    ⋅⋅⋅1. Dapat menjalankan giliran pemain 
-    ⋅⋅⋅2. Dapat menampilkan Score dari pemenang contoh : (X = 2 , O = 1)
-    ⋅⋅⋅3. Pada panel 3x3 dapat memunculkan X dan O
-    ⋅⋅⋅4. Tombol reset dapat mengrestart ulang permainan yang sedang berlangsung
+    ⋅⋅⋅1. Dapat menjalankan giliran pemain⋅⋅
+    ⋅⋅⋅2. Dapat menampilkan Score dari pemenang contoh : (X = 2 , O = 1)⋅⋅
+    ⋅⋅⋅3. Pada panel 3x3 dapat memunculkan X dan O⋅⋅
+    ⋅⋅⋅4. Tombol reset dapat mengrestart ulang permainan yang sedang berlangsung⋅⋅
     ⋅⋅⋅5. Tombol Exit dapat berfungsi dengan baik
 
    
