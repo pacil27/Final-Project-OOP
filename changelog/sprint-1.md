@@ -31,8 +31,8 @@ Sprint kemarin masih belum dapat menjalakan program sebagaimana mestinya
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
 | 2.1 | Membuat Fungsi pergantian pemain | Hilmi |
-| 2.1 | Membuat Fungsi Score pemenang |Hilmi |
-| 2.2 | Membuat Fungsi panel 3x3 | Fadhillah|
+| 2.1 | Membuat Fungsi Score pemenang | Hilmi |
+| 2.2 | Membuat Fungsi panel 3x3 | Fadhillah |
 | 2.3 | Membuat Fungsi tombol reset | Akirareka |
-| 2.4 | Membuat Fungsi tombol exit | Akirareka|
+| 2.4 | Membuat Fungsi tombol exit | Akirareka |
 
