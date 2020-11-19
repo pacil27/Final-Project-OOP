@@ -11,8 +11,12 @@
 ## Sprint Backlog Keseluruhan 
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Membuat desain tampilan Tictactoe | Akirareka |
-| 1.2 | Membuat Player 1 dan 2 | Fadhillah |
+| 1.1 | Membuat JFrame untuk TicTacToe | Fadhillah |
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain contoh | Hilmi | 
+| 1.3 | Membuat Tampilan score pemain contoh : (X = … , O = … ) | Fadhillah | 
+| 1.4 | Membuat panel 3x3 | Hilmi | 
+| 1.5 | Membuat tombol reset dan exit | Akirareka | 
+| 1.6 | Membuat Player 1 dan 2 | Akirareka | 
 | 2.1 | Membuat Fungsi pergantian pemain | Akirareka |
 | 2.1 | Membuat Fungsi Score pemenang | Fadhillah |
 | 2.2 | Membuat Fungsi panel 3x3 | Hilmi |
@@ -25,8 +29,12 @@
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Membuat desain tampilan Tictactoe | Akirareka |
-| 1.2 | Membuat Player 1 dan 2 | Fadhillah |
+| 1.1 | Membuat JFrame untuk TicTacToe | Fadhillah |
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain contoh | Hilmi | 
+| 1.3 | Membuat Tampilan score pemain contoh : (X = … , O = … ) | Fadhillah | 
+| 1.4 | Membuat panel 3x3 | Hilmi | 
+| 1.5 | Membuat tombol reset dan exit | Akirareka | 
+| 1.6 | Membuat Player 1 dan 2 | Akirareka | 
 
 ## Retrospective 
 
