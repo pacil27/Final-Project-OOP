@@ -17,11 +17,11 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Fungsi pergantian pemain | Akirareka | Proses |
-| 2.2 | Membuat Fungsi Score pemenang | Fadhillah | Proses |
-| 2.3 | Membuat Fungsi panel 3x3 | Hilmi | Proses |
-| 2.4 | Membuat Fungsi tombol reset | Akirareka | Proses |
-| 2.5 | Membuat Fungsi tombol exit | Fadhillah | Proses |
+| 2.1 | Membuat Fungsi pergantian pemain | Hilmi | Proses |
+| 2.1 | Membuat Fungsi Score pemenang | Hilmi | Proses |
+| 2.2 | Membuat Fungsi panel 3x3 | Fadhillah | Proses |
+| 2.3 | Membuat Fungsi tombol reset | Akirareka | Proses |
+| 2.4 | Membuat Fungsi tombol exit | Akirareka| Proses |
 
 ## Retrospective 
 
