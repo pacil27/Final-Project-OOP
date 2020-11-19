@@ -34,7 +34,7 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
      - Dapat menampilkan Score dari pemenang contoh : (X = 2 , O = 1)
      - Pada panel 3x3 dapat memunculkan X dan O
      - Tombol reset dapat mengrestart ulang permainan yang sedang berlangsung
-     - Tombol Exit dapat berfungsi dengan baik**
+     - Tombol Exit dapat berfungsi dengan baik
 
    
 - **[Sprint 3](changelog/sprint-3.md) - (2/12/2020 - 7/12/2020)** 
