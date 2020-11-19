@@ -1,31 +1,35 @@
 # Scrum Report (Sprint 1)
-| From dd/mm/yyyy to dd/mm/yyyy
-
+| From 18/11/2020 - 24/11/2020
 ## Team (Insert your name)
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190032  | Akirareka K J    |
+| 140810190062  | Hilmi Aufarahman    |
+| 140810190068  | Fadhillah Akbar I |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 4             | 0             |
 
 ## Sprint 1 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | Preparing the x | Jane Doe | DONE |
-| 1.2 | Make the x | John Doe | FAILED |
+| 1.1 | Membuat JFrame untuk TicTacToe | Akirareka | Proses |
+| 1.2 | Membuat Player 1 dan 2 (X dan O) | Fadhillah | Proses |
+| 1.3 | Membuat Tampilan Game TicTacToe | Hilmi | Proses |
+| 1.4 | Membuat Kodingan untuk tampilan Game TicTacToe  | Fadhillah | Proses |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Sprint kemarin masih belum dapat menjalakan program sebagaimana mestinya 
 
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 2.1 | Membuat Fungsi pergantian pemain | Akirareka |
+| 2.2 | Membuat Fungsi Score pemenang | Fadhillah |
+| 2.3 | Membuat Fungsi panel 3x3 | Hilmi |
+| 2.4 | Membuat Fungsi tombol reset | Akirareka |
+| 2.5 | Membuat Fungsi tombol exit | Fadhillah | 
