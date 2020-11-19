@@ -24,7 +24,7 @@
 | 2.4 | Membuat Fungsi tombol exit | Fadhillah |
 | 3.1 | Penyempurnaan penanganan error | Hilmi |
 | 3.2 | Penyempurnaan desain dari TicTacToe | Akirareka |
-| 3.2 | Penyempurnaan final dari codingan game TicTacToe | Fadhillah |
+| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Fadhillah |
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
