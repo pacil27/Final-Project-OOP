@@ -17,10 +17,11 @@
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
 | 1.1 | Membuat JFrame untuk TicTacToe | Fadhillah | Proses |
-| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain contoh | Akirareka | Proses |
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain contoh | Hilmi | Proses |
 | 1.3 | Membuat Tampilan score pemain contoh : (X = … , O = … ) | Fadhillah | Proses |
 | 1.4 | Membuat panel 3x3 | Hilmi | Proses |
 | 1.5 | Membuat tombol reset dan exit | Akirareka | Proses |
+| 1.6 | Membuat Player 1 dan 2 | Akirareka | Proses |
 
 ## Retrospective 
 
