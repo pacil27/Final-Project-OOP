@@ -1,24 +1,27 @@
 # Scrum Report (Sprint 2)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 25/11/2020 - 1/12/2020
 
 ## Team (Insert your name)
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190032  | Akirareka K J    |
+| 140810190062  | Hilmi Aufarahman    |
+| 140810190068  | Fadhillah Akbar I |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 5             | 0             |
 
 ## Sprint 2 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Preparing the x | Jane Doe | DONE |
-| 2.2 | Make the x | John Doe | FAILED |
+| 2.1 | Membuat Fungsi pergantian pemain | Akirareka | Proses |
+| 2.2 | Membuat Fungsi Score pemenang | Fadhillah | Proses |
+| 2.3 | Membuat Fungsi panel 3x3 | Hilmi | Proses |
+| 2.4 | Membuat Fungsi tombol reset | Akirareka | Proses |
+| 2.5 | Membuat Fungsi tombol exit | Fadhillah | Proses |
 
 ## Retrospective 
 
@@ -27,5 +30,6 @@ Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian t
 ## Next Sprint Backlog (Sprint 3)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 3.1 | Preparing the x | Jane Doe | 
-| 3.2 | Make the x | John Doe | 
+| 3.1 | Penyempurnaan penanganan error | Akirareka | 
+| 3.2 | Penyempurnaan desain dari TicTacToe | Hilmi | 
+| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Fadhillah | 
