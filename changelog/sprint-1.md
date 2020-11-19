@@ -17,9 +17,9 @@
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
 | 1.1 | Membuat JFrame untuk TicTacToe | Akirareka | Proses |
-| 1.2 | Membuat Player 1 dan 2 (X dan O) | Fadhillah | Proses |
-| 1.3 | Membuat Tampilan Game TicTacToe | Hilmi | Proses |
-| 1.4 | Membuat Kodingan untuk tampilan Game TicTacToe  | Fadhillah | Proses |
+| 1.2 | Membuat Tampilan Game TicTacToe | Hilmi | Proses |
+| 1.3 | Membuat Kodingan untuk tampilan Game TicTacToe | Fadhillah | Proses |
+| 1.4 | Membuat Player 1 dan 2 (X dan O) | Fadhillah | Proses |
 
 ## Retrospective 
 
