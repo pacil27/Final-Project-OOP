@@ -4,9 +4,9 @@
 ## Team (Insert your name)
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190032  | Akirareka    |
+| 140810190062  | Hilmi    |
+| 140810190068  | Fadhillah |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
@@ -17,8 +17,9 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Preparing the x | Jane Doe | DONE |
-| 3.2 | Make the x | John Doe | FAILED |
+| 3.1 | Penyempurnaan penanganan error |Akirareka | Proses |
+| 3.2 | Penyempurnaan desain dari TicTacToe | Hilmi | Proses |
+| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Fadhillah | Proses |
 
 ## Retrospective 
 
