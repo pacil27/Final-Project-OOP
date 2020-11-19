@@ -19,7 +19,7 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
    - Mengeksplore tentang game tic tac toe
 
 - **[Sprint 1](changelog/sprint-1.md) - (18/11/2020 - 24/11/2020)** 
-   * Langkah pertama dalam membuat tictactoe adalah jFramenya terlebih dahulu
+   - Langkah pertama dalam membuat tictactoe adalah jFramenya terlebih dahulu
    - Membuat desain tampilan yang ingin ditampilkan , pada tampilan nanti kami akan menampilkan :
      - Tulisan untuk mengetahui giliran pemain contoh : (Giliran Ke-1(x),Giliran Ke-2(o) , dst)
      - Menampilkan score pemain contoh : (X = … , O = … )
