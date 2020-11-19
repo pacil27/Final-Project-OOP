@@ -19,14 +19,12 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
    - Mengeksplore tentang game tic tac toe
 
 - **[Sprint 1](changelog/sprint-1.md) - (18/11/2020 - 24/11/2020)** 
-   - Langkah pertama dalam membuat tictactoe adalah jFramenya terlebih dahulu
-   - Membuat desain tampilan yang ingin ditampilkan , pada tampilan nanti kami akan menampilkan :
+   - Membuat desain tampilan Seperti :
+     - Membuat JFrame TictacToe
      - Tulisan untuk mengetahui giliran pemain contoh : (Giliran Ke-1(x),Giliran Ke-2(o) , dst)
      - Menampilkan score pemain contoh : (X = … , O = … )
      - Membuat panel 3x3
      - Dan yang tekahir membuat tombol reset dan exit
-   - Membuat kodingan yang menampilkan desain yang telah dibuat 
-   - Membuat player 1 dan player 2 (X dan O)
 
 - **[Sprint 2](changelog/sprint-2.md) - (25/11/2020 - 1/12/2020)** 
    - Membuat semua fungsi yang berjalan :
