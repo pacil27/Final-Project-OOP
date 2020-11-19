@@ -30,8 +30,8 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
 
 - **[Sprint 2](changelog/sprint-2.md) - (25/11/2020 - 1/12/2020)** 
    - Membuat semua fungsi yang berjalan :
-    1. Dapat menjalankan giliran pemain
-    2. Dapat menampilkan Score dari pemenang contoh : (X = 2 , O = 1)
+     1. Dapat menjalankan giliran pemain
+     2. Dapat menampilkan Score dari pemenang contoh : (X = 2 , O = 1)
     3. Pada panel 3x3 dapat memunculkan X dan O
     4. Tombol reset dapat mengrestart ulang permainan yang sedang berlangsung
     5. Tombol Exit dapat berfungsi dengan baik**
