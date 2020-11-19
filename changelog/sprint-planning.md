@@ -24,10 +24,10 @@
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Membuat frame dan panel 3x3 | Jane Doe |
-| 1.2 | Membuat giliran X atau O | Jane Doe |
-| 1.3 | Mengubah isi panel menjadi huruf sesuai giliran | Jane Doe |
+| 1.1 | Mengadakan diskusi tentang perencanaan pengerjaan sprint | ALL |
+| 1.2 | Mengeksplore tentang game tic tac toe | ALL |
 
 ## Retrospective 
 
 Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+
