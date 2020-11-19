@@ -22,7 +22,7 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
    - Langkah pertama dalam membuat tictactoe adalah jFramenya terlebih dahulu
    - Membuat desain tampilan yang ingin ditampilkan , pada tampilan nanti kami akan menampilkan :
    1. Tulisan untuk mengetahui giliran pemain contoh : (Giliran Ke-1(x),Giliran Ke-2(o) , dst)
-   - **2. Menampilkan score pemain contoh : (X = … , O = … )**
+   2. Menampilkan score pemain contoh : (X = … , O = … )
    - **3. Membuat panel 3x3**
    - **4. Dan yang tekahir membuat tombol reset dan exit**
    - Membuat kodingan yang menampilkan desain yang telah dibuat 
