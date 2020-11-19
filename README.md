@@ -14,7 +14,7 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
 | 140810190068  | Fadhillah Akbar I |
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
+- **[Sprint Planning](changelog/sprint-planning.md) - (17/11/2020)** 
    - Mengadakan diskusi tentang perencanaan pengerjaan sprint
    - Mengeksplore tentang game tic tac toe
 
@@ -32,13 +32,13 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
 
 ## Running The App
 
--**Membuat frame dan panel 3x3.
--**Membuat giliran X atau O.
--**Mengubah isi panel menjadi huruf sesuai giliran dengan berusaha membentuk garis horizontal ATAU vertikal ATAU diagonal
-  **Jika kotak sudah terisi penuh dan tidak ada player yang bisa membentuk garis, permainan berakhir dan menunjukkan permainan seri.
--**Setelah kondisi membentuk garis maka tampilan akan berganti dan menunjukkan player yang membentuk garis tersebut.
--**Ketika permainan selesai, muncul tombol 'restart' untuk memulai permainan kembali.
--**Muncul leaderbord semua player yang telah bermain.
+-**Membuat frame dan panel 3x3.**
+-**Membuat giliran X atau O.**
+-**Mengubah isi panel menjadi huruf sesuai giliran dengan berusaha membentuk garis horizontal ATAU vertikal ATAU diagonal**
+-**Jika kotak sudah terisi penuh dan tidak ada player yang bisa membentuk garis, permainan berakhir dan menunjukkan permainan seri.**
+-**Setelah kondisi membentuk garis maka tampilan akan berganti dan menunjukkan player yang membentuk garis tersebut.**
+-**Ketika permainan selesai, muncul tombol 'restart' untuk memulai permainan kembali.**
+-**Muncul leaderbord semua player yang telah bermain.**
 
 ## Classes Used
 
