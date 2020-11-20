@@ -15,8 +15,7 @@
 | 1.2 | Membuat Tulisan untuk mengetahui giliran pemain contoh | Hilmi | 
 | 1.3 | Membuat Tampilan score pemain contoh : (X = … , O = … ) | Hilmi | 
 | 1.4 | Membuat panel 3x3 | Fadillah| 
-| 1.5 | Membuat tombol reset dan exit | Akirareka | 
-| 1.6 | Membuat Player 1 dan 2 | Akirareka | 
+| 1.5 | Membuat tombol reset dan exit | Akirareka |  
 | 2.1 | Membuat Fungsi pergantian pemain | Hilmi |
 | 2.2 | Membuat Fungsi Score pemenang |Hilmi |
 | 2.3 | Membuat Fungsi panel 3x3 | Fadhillah|
@@ -34,7 +33,7 @@
 | 1.3 | Membuat Tampilan score pemain contoh : (X = … , O = … ) | Hilmi | 
 | 1.4 | Membuat panel 3x3 | Fadillah| 
 | 1.5 | Membuat tombol reset dan exit | Akirareka | 
-| 1.6 | Membuat Player 1 dan 2 | Akirareka | 
+
 
 ## Retrospective 
 
