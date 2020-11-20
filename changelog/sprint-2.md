@@ -11,7 +11,7 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 5             | 0             |
+| 6             | 0             |
 
 ## Sprint 2 Backlog
 
@@ -22,6 +22,7 @@
 | 2.3 | Membuat Fungsi panel 3x3 | Fadhillah | Proses |
 | 2.4 | Membuat Fungsi tombol reset | Akirareka | Proses |
 | 2.5 | Membuat Fungsi tombol exit | Akirareka| Proses |
+| 2.6 | Membuat Fungsi aturan permainan | Fadhillah | Proses |
 
 ## Retrospective 
 
