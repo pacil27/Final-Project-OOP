@@ -18,17 +18,28 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
    - Mengadakan diskusi tentang perencanaan pengerjaan sprint
    - Mengeksplore tentang game tic tac toe
 
-- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 1](changelog/sprint-1.md) - (18/11/2020 - 24/11/2020)** 
+   - Membuat desain tampilan TicTacToe seperti :
+     - Membuat JFrame TictacToe
+     - Tulisan untuk mengetahui giliran pemain contoh : (Giliran Ke-1(x),Giliran Ke-2(o) , dst)
+     - Menampilkan score pemain contoh : (X = … , O = … )
+     - Membuat panel 3x3
+     - Dan yang tekahir membuat tombol reset dan exit
 
-- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 2](changelog/sprint-2.md) - (25/11/2020 - 1/12/2020)** 
+   - Membuat semua fungsi yang berjalan :
+     - Dapat menjalankan giliran pemain
+     - Dapat menampilkan Score dari pemenang contoh : (X = 2 , O = 1)
+     - Pada panel 3x3 dapat memunculkan X dan O
+     - Tombol reset dapat mengrestart ulang permainan yang sedang berlangsung
+     - Tombol Exit dapat berfungsi dengan baik
+
    
-- **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 3](changelog/sprint-3.md) - (2/12/2020 - 7/12/2020)** 
+   - Penyempurnaan penanganan error
+   - Penyempurnaan desain dari TicTacToe
+   - Penyempurnaan final dari codingan game TicTacToe
+
 
 ## Running The App
 
