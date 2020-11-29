@@ -12,6 +12,7 @@ public class Gui {
         panel.add(turn);//menambahkan label turn ke panel
         panel.add(p1score);//menambahkan label p1score ke panel
         panel.add(p2score);//menambahkan label p2score ke panel
+        Logic.updateScore(p1score,p2score);//Untuk Mengupdate isi dari label
         panel.setLayout(new java.awt.GridLayout(6, 3));//Mensetting layout panel
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);//Mensetting frame agar exit ketika di close
         
@@ -25,7 +26,10 @@ public class Gui {
                     new ActionListener() {
                         public void actionPerformed(ActionEvent e) { //Ketika tombol di klik akan menjalankan fungsi dibawah
                             
-                    
+                            Logic.buttonClicked(button);
+                            Logic.gameRules(button,frame);
+                            Logic.updateTurn(turn);
+                            
                         }
                     });
                 button.setBorder(BorderFactory.createLineBorder(Color.BLACK));//Membuat border untuk tombol nya
@@ -36,7 +40,8 @@ public class Gui {
         reset.setText("Reset");
         reset.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){//Ketika tombol di klik akan menjalankan fungsi dibawah
-                
+                frame.dispose();//Karena kami membuat frame baru tiap reset,maka frame sebelumnya dihapus terlebih dahulu
+                Logic.restartGame(frame);//menjalankan fungsi yang memiliki instansiasi frame baru
             }
         });
         JButton close = new JButton(); //Membuat tombol close
@@ -61,6 +66,6 @@ public class Gui {
         frame.setSize(300,400);//mensetting ukuran frame
         frame.setVisible(true);//membuat frame agar tampil
 
-
+        Logic play = new Logic();//menginstansiasi fungsi fungsi pada class Logic
     }
 }
