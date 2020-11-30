@@ -11,18 +11,18 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 6             | 0             |
+| 6             | 6             |
 
 ## Sprint 2 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Fungsi pergantian pemain | Hilmi | Proses |
-| 2.2 | Membuat Fungsi Score pemenang | Hilmi | Proses |
-| 2.3 | Membuat Fungsi panel 3x3 | Fadhillah | Proses |
-| 2.4 | Membuat Fungsi tombol reset | Akirareka | Proses |
-| 2.5 | Membuat Fungsi tombol exit | Akirareka| Proses |
-| 2.6 | Membuat Fungsi aturan permainan | Fadhillah | Proses |
+| 2.1 | Membuat Fungsi pergantian pemain | Hilmi | Selesai |
+| 2.2 | Membuat Fungsi Score pemenang | Hilmi | Selesai |
+| 2.3 | Membuat Fungsi panel 3x3 | Fadhillah | Selesai |
+| 2.4 | Membuat Fungsi tombol reset | Akirareka | Selesai |
+| 2.5 | Membuat Fungsi tombol exit | Akirareka| Selesai |
+| 2.6 | Membuat Fungsi aturan permainan | Fadhillah | Selesai |
 
 ## Retrospective 
 
