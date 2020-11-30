@@ -43,13 +43,9 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
 
 ## Running The App
 
-- **Membuat frame dan panel 3x3.**
-- **Membuat giliran X atau O.**
-- **Mengubah isi panel menjadi huruf sesuai giliran dengan berusaha membentuk garis horizontal ATAU vertikal ATAU diagonal**
-- **Jika kotak sudah terisi penuh dan tidak ada player yang bisa membentuk garis, permainan berakhir dan menunjukkan permainan seri.**
-- **Setelah kondisi membentuk garis maka tampilan akan berganti dan menunjukkan player yang membentuk garis tersebut.**
-- **Ketika permainan selesai, muncul tombol 'restart' untuk memulai permainan kembali.**
-- **Muncul leaderbord semua player yang telah bermain.**
+- Buka command ke folder src
+- compile semua file dengan command "javac *.java"
+- lalu running dengan command "java TicTacToe"
 
 ## Classes Used
 
@@ -58,5 +54,10 @@ TO;DO
 UML image here
 
 ## Notable Assumption and Design App Details
-
-TO;DO
+- **Membuat frame dan panel 3x3.**
+- **Membuat giliran X atau O.**
+- **Mengubah isi panel menjadi huruf sesuai giliran dengan berusaha membentuk garis horizontal ATAU vertikal ATAU diagonal**
+- **Jika kotak sudah terisi penuh dan tidak ada player yang bisa membentuk garis, permainan berakhir dan menunjukkan permainan seri.**
+- **Setelah kondisi membentuk garis maka tampilan akan berganti dan menunjukkan player yang membentuk garis tersebut.**
+- **Ketika permainan selesai, muncul tombol 'restart' untuk memulai permainan kembali.**
+- **Muncul leaderbord semua player yang telah bermain.**
