@@ -13,7 +13,7 @@ public class Gui {
         panel.add(p1score);//menambahkan label p1score ke panel
         panel.add(p2score);//menambahkan label p2score ke panel
         Logic.updateScore(p1score,p2score);//Untuk Mengupdate isi dari label
-        panel.setLayout(new java.awt.GridLayout(6, 3));//Mensetting layout panel
+        panel.setLayout(new GridLayout(6, 3));//Mensetting layout panel
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);//Mensetting frame agar exit ketika di close
         
         for (int i = 0; i < 3; i++){
