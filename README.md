@@ -43,8 +43,9 @@ Tic-tac-toe adalah permainan yang dimainkan oleh 2 orang dengan mengisi X dan O 
 
 ## Running The App
 
-- Buka CMD di file TicTacToe.java
-- lalu running " java TicTacToe "
+- Buka command ke folder src
+- compile semua file dengan command "javac *.java"
+- lalu running dengan command "java TicTacToe"
 
 ## Classes Used
 
