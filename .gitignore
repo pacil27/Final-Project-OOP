@@ -1,6 +1,1 @@
-src/Gui.class
-src/Gui$2.class
-src/Gui$1.class
-src/Gui$3.class
-src/Logic.class
-src/TicTacToe.class
+src/*.class
