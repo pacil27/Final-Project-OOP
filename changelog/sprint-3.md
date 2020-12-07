@@ -11,15 +11,15 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 3             | n             |
+| 3             | 3             |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Penyempurnaan penanganan error |Akirareka | Proses |
-| 3.2 | Penyempurnaan desain dari TicTacToe | Hilmi | Proses |
-| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Fadhillah | Proses |
+| 3.1 | Penyempurnaan penanganan error |Akirareka | Selesai |
+| 3.2 | Penyempurnaan desain dari TicTacToe | Hilmi | Selesai |
+| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Fadhillah | Selesai |
 
 ## Retrospective 
 
