@@ -10,18 +10,17 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 5             | 0             |
+| 5             | 5             |
 
 ## Sprint 1 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | Membuat JFrame untuk TicTacToe | Fadhillah | Proses |
-| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain contoh | Hilmi | Proses |
-| 1.3 | Membuat Tampilan score pemain contoh : (X = … , O = … ) | Hilmi | Proses | 
-| 1.4 | Membuat panel 3x3 | Fadillah| Proses | 
-| 1.5 | Membuat tombol reset dan exit | Akirareka | Proses | 
-| 1.6 | Membuat Player 1 dan 2 | Akirareka | Proses | 
+| 1.1 | Membuat JFrame untuk TicTacToe | Fadhillah | Selesai |
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain contoh | Hilmi | Selesai |
+| 1.3 | Membuat Tampilan score pemain contoh : (X = … , O = … ) | Hilmi | Selesai | 
+| 1.4 | Membuat panel 3x3 | Fadillah| Selesai | 
+| 1.5 | Membuat tombol reset dan exit | Akirareka | Selesai |  
 
 ## Retrospective 
 
